@@ -18,7 +18,6 @@ public class TelaPomodoro extends javax.swing.JFrame {
     private Timer timer;
     private int totSeg, minutos, segundos;
     private boolean tocando=true;
-    private int tempo;
     
     
     public TelaPomodoro() {
